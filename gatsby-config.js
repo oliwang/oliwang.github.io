@@ -6,9 +6,9 @@ module.exports = {
         contentPath: `${__dirname}/content/garden`,
         rootNote: `/hello`,
       },
-    },
+    }
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Better Next Week`,
   },
 }
