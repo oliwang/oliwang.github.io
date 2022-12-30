@@ -6,7 +6,7 @@ tags:
   - RSS
   - "2022"
 excerpt: My first newsletter on the first day of 2023!
-published: false
+published: true
 scheduled-for: 2023-01-01
 stage: Editing
 ---
@@ -47,9 +47,9 @@ So with that said, let's dive into this week's edition. I hope you find somethin
 
 ![The Art and Business of Online Writing](https://m.media-amazon.com/images/I/41nf5kglD7L.jpg)
 
-Just finished reading Nicolas Cole's book "The Art and Business of Online Writing", which has quickly become one of my favorite books for 2022. My plan was to read one chapter each day and finish the book in 2 weeks. However, each time I finish a chapter and glimps the chapter name for the next one, I just want to know what the author says next. As a result I finished the book in 4 days. 
+Just finished reading Nicolas Cole's book "The Art and Business of Online Writing", which has quickly become one of my favorite books for 2022. My plan was to read one chapter each day and finish the book in 2 weeks. However, each time I finish a chapter and glimpse the chapter name for the next one, I just want to know what the author says next. As a result I finished the book in 4 days. 
 
-The book talks about theory and methodology. But most importly, he provides instructions and examples that I can actually follow. For example, he talks about how a great headline should include: What this piece of writing is about, who this piece of writing is for , and the PROMISE: the problem that will be solved. He also has templates called "1/3/1" and "1/5/1" for paragraphs and shows you exactly how he uses those templates in his wrting.
+The book talks about theory and methodology. But most importantly, he provides instructions and examples that I can actually follow. For example, he talks about how a great headline should include: What this piece of writing is about, who this piece of writing is for, and the PROMISE: the problem that will be solved. He also has templates called "1/3/1" and "1/5/1" for paragraphs and shows you exactly how he uses those templates in his writing.
 
 As I read the book, I keep thinking back to the articles I click and read on Medium. Nicholas definitely knows what he is talking about. Instead of just feeling "this is a great piece", or "I want to know what this article is about", I can identify some of the tricks and methods the authors used to grab my attention and keep me reading. 
 
@@ -66,7 +66,7 @@ I have to confess: I used ChatGPT as I wrote this newsletter. Here are some inte
 - [Write an alternative ending scene to Avengers Endgame, where Thanos fell in Love with Iron Man and together they defeat the universe and become parents to a lovable, purple furry.](https://www.learngpt.com/prompts/write-an-alternative-ending-scene-to-avengers-endgame?source=oliwang_betternextweek)
 	- Collection of ChatGPT examples. This Thanos and Iron Man story is hilarious.
 - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html?source=oliwang_betternextweek)
-	- An interesting usecase of ChatGPT
+	- An interesting use case of ChatGPT
 - [20 Entertaining Uses of ChatGPT You Never Knew Were Possible](https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507?source=oliwang_betternextweek)
 	- I tried 6. Naming Things, 10. Lesson plans for teachers and got amazing result.
 

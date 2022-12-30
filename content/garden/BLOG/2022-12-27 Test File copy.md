@@ -1,7 +1,7 @@
 ---
 title: "Test File"
 date: 2022-12-27
-tags: ["test", "blog", "RSS"]
+tags: ["test", "Blog", "RSS", "Newsletter"]
 excerpt: "This is a test blog"
 published: true
 
