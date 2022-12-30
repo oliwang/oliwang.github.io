@@ -1,0 +1,11 @@
+.note-content p{
+    margin: 20px 0px 20px 0px!important;
+}
+
+.note-content blockquote {
+    background: rgba(173, 216, 230, 0.3)!important;
+    margin: 5px 0px!important;
+    font-size: 16px!important;
+    font-weight: light!important;
+
+}

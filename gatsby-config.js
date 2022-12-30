@@ -53,12 +53,13 @@ module.exports = {
               {
                 allMdx(
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { frontmatter: { tags: { in: ["RSS"] } } },
+                  filter: { 
+                    frontmatter: { tags: { in: ["RSS"] }, published: { eq: true } } 
+                  },
                   limit: 20
                 ) {
                   nodes {
                     excerpt
-
                     fields { 
                       slug 
                     }
@@ -89,7 +90,9 @@ module.exports = {
               {
                 allMdx(
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { frontmatter: { tags: { in: ["Blog"] } } },
+                  filter: { 
+                    frontmatter: { tags: { in: ["Blog"] }, published: { eq: true } } 
+                  },
                   limit: 20
                 ) {
                   nodes {
@@ -125,7 +128,9 @@ module.exports = {
               {
                 allMdx(
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { frontmatter: { tags: { in: ["Newsletter"] } } },
+                  filter: { 
+                    frontmatter: { tags: { in: ["Newsletter"] }, published: { eq: true } } 
+                  },
                   limit: 20
                 ) {
                   nodes {
@@ -161,7 +166,9 @@ module.exports = {
               {
                 allMdx(
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { frontmatter: { tags: { in: ["Sharing"] } } },
+                  filter: { 
+                    frontmatter: { tags: { in: ["Sharing"] }, published: { eq: true } } 
+                  },
                   limit: 20
                 ) {
                   nodes {
