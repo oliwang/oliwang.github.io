@@ -229,7 +229,7 @@ function generate_html(inner_html) {
     }
 
     .note-content p{
-      margin:3rem 0!important;
+      margin:2rem 0!important;
     }
     
     .note-content blockquote{
@@ -237,6 +237,7 @@ function generate_html(inner_html) {
       margin:0.5rem 0!important;
       font-size:16px!important;
       font-weight:light!important;
+      width:100%;
     }
 
     .note-content a:link,  .note-content a:visited,{

@@ -7,7 +7,7 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "deploy": "yarn clean && gatsby build && gh-pages -d public -b gh-pages"
+    "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && yarn clean && gatsby build && gh-pages -d public -b gh-pages"
   },
   "dependencies": {
     "gatsby": "^2.21.37",
