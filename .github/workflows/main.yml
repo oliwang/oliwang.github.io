@@ -1,0 +1,24 @@
+name: GH Pages Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@main
+        with:
+          persist-credentials: false
+          submodules: true
+
+      - name: Install 🔧
+        run: yarn install
+      
+      - name: Deploy
+        run: yarn deploy
+
