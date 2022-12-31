@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: install node
+        run: |
+          npm install n -g
+          n latest
+          
       - name: Checkout 🛎️
         uses: actions/checkout@main
         with:
