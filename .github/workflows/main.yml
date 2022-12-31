@@ -15,8 +15,6 @@ jobs:
         with:
           node-version: 18.12.1
           cache: 'npm'
-      - run: npm ci
-      - run: npm test
           
       - name: Checkout 🛎️
         uses: actions/checkout@main
