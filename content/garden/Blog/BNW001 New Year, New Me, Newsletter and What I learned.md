@@ -1,5 +1,5 @@
 ---
-title: "Better Next Week 001 - New Year, New Me, Newsletter and What I learned"
+title: BNW001 New Year, New Me, Newsletter and What I learned
 date: 2023-01-01
 tags:
   - Newsletter
@@ -8,10 +8,10 @@ tags:
 excerpt: My first newsletter on the first day of 2023!
 published: false
 scheduled-for: 2023-01-01
-stage: Editing
+stage: Done
 ---
 
-# Better Next Week 001 - New Year, New Me, Newsletter and What I learned
+# BNW001 New Year, New Me, Newsletter and What I learned
 
 Hello and welcome to the first edition of Better Next Week, your weekly dose of coding, productivity, and self-improvement inspiration.
 

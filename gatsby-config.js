@@ -11,14 +11,21 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `BLOG`,
-        path: `${__dirname}/content/garden/BLOG`,
+        path: `${__dirname}/content/garden/Blog`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `SHARING`,
-        path: `${__dirname}/content/garden/SHARING`,
+        path: `${__dirname}/content/garden/Sharing`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `PROJECT`,
+        path: `${__dirname}/content/garden/Project`,
       },
     },
     {
