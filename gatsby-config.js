@@ -230,7 +230,8 @@ function generate_html(inner_html) {
   var html_wrapper = `
   <style>
     .note-content img {
-      width:80%;
+      max-width:80%;
+      max-height: 300px;
       margin: 1rem auto;
       display:block;
     }
