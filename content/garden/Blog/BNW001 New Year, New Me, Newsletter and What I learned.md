@@ -6,9 +6,9 @@ tags:
   - RSS
   - "2022"
 excerpt: My first newsletter on the first day of 2023!
-published: false
+published: true
 scheduled-for: 2023-01-01
-stage: Done
+stage: DONE
 ---
 
 # BNW001 New Year, New Me, Newsletter and What I learned
