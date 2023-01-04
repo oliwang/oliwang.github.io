@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    `gatsby-plugin-mdx`,
     {
       resolve: `gatsby-theme-garden`,
       options: {
@@ -48,7 +49,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
+                  description: node.frontmatter.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
@@ -66,7 +67,7 @@ module.exports = {
                   limit: 20
                 ) {
                   nodes {
-                    excerpt
+                    
                     html
                     fields { 
                       slug 
@@ -74,6 +75,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      excerpt
                     }
                   }
                 }
@@ -86,7 +88,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
+                  description: node.frontmatter.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
@@ -104,7 +106,7 @@ module.exports = {
                   limit: 20
                 ) {
                   nodes {
-                    excerpt
+                    
                     html
                     fields { 
                       slug 
@@ -112,6 +114,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      excerpt
                     }
                   }
                 }
@@ -124,7 +127,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
+                  description: node.frontmatter.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
@@ -142,7 +145,7 @@ module.exports = {
                   limit: 20
                 ) {
                   nodes {
-                    excerpt
+                    
                     html
                     fields { 
                       slug 
@@ -150,6 +153,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      excerpt
                     }
                   }
                 }
@@ -162,11 +166,11 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
+                  description: node.frontmatter.excerpt,
                   date: node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  url: node.frontmatter.url,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": generate_html(node.html) }],
+                  custom_elements: [{ "content": node.frontmatter.excerpt }],
                 })
               })
             },
@@ -188,6 +192,8 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      url
+                      excerpt
                     }
                   }
                 }
@@ -220,7 +226,21 @@ module.exports = {
     description: 'Your weekly dose of productivity, coding, and self-improvement inspiration',
     siteUrl: 'https://oliwang.github.io/',
     author: 'Olivia Wang',
-    email: 'betternextweek.bnw@gmail.com'
+    email: 'betternextweek.bnw@gmail.com',
+    headerMenu: [ // Top Navbar items
+      {type: 'page', item: '', title: 'Home'}, // Type can be 'page', 'note', 'tag', 'text' or 'link'
+      {type: 'page', item: 'sitemap', title: 'Sitemap'},
+      {type: 'page', item: 'rss.xml', title: 'RSS'},
+      {
+        type: 'page', item: 'tags', title: 'Tags',
+        menu: [ // Only one level depth, please.
+          {type: 'tag',item: 'programming'},
+          {type: 'tag',item: 'philosophy'},
+          {type: 'tag',item: 'psychology'},
+          {type: 'tag',item: 'rationality'},
+        ]
+      },
+    ],
   },
 
 }
