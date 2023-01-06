@@ -16,7 +16,7 @@ published: true
 
 from Read Something Greate Newsletter in English
 
-#Sharing #RSS #reading #book
+#reading #book
 
 ![IMAGE](https://149664534.v2.pressablecdn.com/wp-content/uploads/2021/11/Blank-Sheet.jpeg)
 

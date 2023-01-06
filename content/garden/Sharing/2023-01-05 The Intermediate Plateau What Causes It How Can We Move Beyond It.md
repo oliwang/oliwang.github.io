@@ -16,7 +16,7 @@ published: true
 
 from Scott Young's Newsletter in English
 
-#Sharing #RSS #learning
+#learning
 
 ![IMAGE](https://www.scotthyoung.com/blog/wp-content/uploads/2022/12/The-Intermediate-Plateau1.jpg)
 

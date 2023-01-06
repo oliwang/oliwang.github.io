@@ -16,7 +16,7 @@ published: true
 
 from https://medium.com/technology-hits/obsidian-plugin-review-a-tab-switcher-a-time-planner-an-orphan-links-view-and-a-powerful-367d55b417d4 in English
 
-#Sharing #RSS #obsidian #plugin #calendar
+#obsidian #plugin #calendar
 
 ![IMAGE](https://github.com/sandorex/set-in-obsidian-plugin/raw/master/screenshots/screenshot-month.png)
 

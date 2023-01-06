@@ -16,7 +16,7 @@ published: true
 
 from https://www.kapwing.com/resources/fastest-way-make-a-gif-from-youtube-video-for-free/ in English
 
-#Sharing #RSS #Tool #Converter #Online
+#Tool #Converter #Online
 
 ![IMAGE](https://cdn-useast1.kapwing.com/static/A5J-convert-horizontal.webp)
 
