@@ -1,7 +1,7 @@
 ---
 title: "Book Note - The Psychology of Money"
 date: 2023-01-06
-tags: ["booknote", "money", "self-help"]
+tags: ["Blog", "booknote", "money", "self-help"]
 excerpt: "We often treat money and economics as subjective topics, but in reality, so many human activities are involved that we should view them more like psychology."
 
 published: true
