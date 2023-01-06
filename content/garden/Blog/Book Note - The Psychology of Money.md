@@ -30,7 +30,7 @@ I had originally planned to just pick my top 5 lessons from the book, but after 
 
 ### 1. No One's Crazy
 
-People's investment decisions, attitudes toward money, educational background, intelligence level, etc. are not as related as we think they are. Instead, they are related to personal experience, especially the socio-economic environment during the teenage and twenties. For example, if the stock market was flourishing at that stage, people are more likely to invest in stocks; if the economy was not good, people are more likely to save money. It is mentioned in another book that when people are more likely to vote for Democrates if Democrates won the election when that person was eight years old, and vice versa.
+People's investment decisions, attitudes toward money, educational background, intelligence level, etc. are not as related as we think they are. Instead, they are related to personal experience, especially the socio-economic environment during the teenage and twenties. For example, if the stock market was flourishing at that stage, people are more likely to invest in stocks; if the economy was not good, people are more likely to save money. It is mentioned in another book that when people are more likely to vote for Democrats if Democrats won the election when that person was eight years old, and vice versa.
 
 Therefore, sometimes we may think someone's investment behavior is "crazy", but there is often some rationale behind it. There is no one-size-fits-all logic.
 

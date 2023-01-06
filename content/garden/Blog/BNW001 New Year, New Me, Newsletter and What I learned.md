@@ -4,7 +4,7 @@ date: 2023-01-01
 tags:
   - Newsletter
   - RSS
-  - "2022"
+  - "2023"
 excerpt: My first newsletter on the first day of 2023!
 published: true
 scheduled-for: 2023-01-01
