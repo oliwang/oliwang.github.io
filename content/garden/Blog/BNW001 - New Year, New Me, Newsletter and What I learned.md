@@ -1,5 +1,5 @@
 ---
-title: BNW001 New Year, New Me, Newsletter and What I learned
+title: BNW001 - New Year, New Me, Newsletter and What I learned
 date: 2023-01-01
 tags:
   - Newsletter
@@ -11,7 +11,7 @@ scheduled-for: 2023-01-01
 stage: DONE
 ---
 
-# BNW001 New Year, New Me, Newsletter and What I learned
+# BNW001 - New Year, New Me, Newsletter and What I learned
 
 ![CA](https://imagehosting-ow.oss-cn-hangzhou.aliyuncs.com/202301062219399.png)
 
