@@ -13,6 +13,8 @@ stage: DONE
 
 # BNW001 New Year, New Me, Newsletter and What I learned
 
+![CA](https://imagehosting-ow.oss-cn-hangzhou.aliyuncs.com/202301062219399.png)
+
 Hello and welcome to the first edition of Better Next Week, your weekly dose of coding, productivity, and self-improvement inspiration.
 
 As we start the new year, many of us have made resolutions to be more productive, improve our skills, or work towards our goals. For me, one of my resolutions is to write every week and share my thoughts, learning, experiences, and resources with you all through this newsletter.
@@ -62,13 +64,13 @@ I have to confess: I used ChatGPT as I wrote this newsletter. Here are some inte
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside?source=oliwang_betternextweek)
 	- Making ChatGPT act like a linux machine: use commands such as echo, ls, pwd, curl. You can also send requests to API endpoints in the alternative ChatGPT universe.
 - [AI Homework](https://stratechery.com/2022/ai-homework?source=oliwang_betternextweek)
-	- Another article about AIGC. While ChatGPT seems to be able to run python calculations, it's just looking for an answer that has the highest probability. That means unlink a calculator, if you ask ChatGPT to do math calculations, it could be wrong. The answers to other questions can be wrong too. What's interesting in this article is that the author proposes a zero-trust learning method for school. Instead of worrying that the students avoid doing their work by using AI tools, AI tools are provided to students with a record for each individual use. Students have to use this AI to generate answers. But the answers could be wrong sometimes. So the students have to spend time learning the materials to know which answers should be corrected before submission.
+	- Another article about AIGC. While ChatGPT seems to be able to run python calculations, it's just looking for an answer that has the highest probability. That means, unlike a calculator, if you ask ChatGPT to do math calculations, it could be wrong. The answers to other questions can be wrong too. What's interesting in this article is that the author proposes a zero-trust learning method for school. Instead of worrying that the students avoid doing their work by using AI tools, AI tools are provided to students with a record for each individual use. Students have to use this AI to generate answers. But the answers could be wrong sometimes. So the students have to spend time learning the materials to know which answers should be corrected before submission.
 - [Write an alternative ending scene to Avengers Endgame, where Thanos fell in Love with Iron Man and together they defeat the universe and become parents to a lovable, purple furry.](https://www.learngpt.com/prompts/write-an-alternative-ending-scene-to-avengers-endgame?source=oliwang_betternextweek)
 	- Collection of ChatGPT examples. This Thanos and Iron Man story is hilarious.
 - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html?source=oliwang_betternextweek)
 	- An interesting use case of ChatGPT
 - [20 Entertaining Uses of ChatGPT You Never Knew Were Possible](https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507?source=oliwang_betternextweek)
-	- I tried 6. Naming Things, 10. Lesson plans for teachers and got amazing result.
+	- I tried 6. Naming Things, 10. Lesson plans for teachers and got amazing results.
 
 ---
 

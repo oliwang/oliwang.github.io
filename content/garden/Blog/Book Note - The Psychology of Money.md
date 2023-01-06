@@ -84,7 +84,7 @@ Making plans is important, but it is also important to leave room for error. For
 
 Similarly, when making long-term plans such as retirement plans, one should lower their expectations and save more money. For example, if you expect to earn three times your current salary in a few years, you should plan as if you can only earn two times your salary.
 
-This gives yourself a chance to start over if things don't go as expected.
+This gives your a chance to start over if things don't go as expected.
 
 ### 14. You'll Change
 
@@ -98,7 +98,7 @@ Nothing is truly "free" when it comes to investments. While losses are a normal 
 
 People with different goals view stock prices differently. For high-frequency traders, it doesn't matter how high the current price is as long as they think it will rise a little in a short time, so they can buy it. However, for those who want to hold stocks for a long time, holding stocks that are overvalued is not a good option.
 
-It is easy to get confused when people with different goals do the same thing. For instance, people who want to hold stocks for a long-term may be swayed to follow the trend of high-frequency trading, which may lead to a bubble.
+It is easy to get confused when people with different goals do the same thing. For instance, people who want to hold stocks for the long term may be swayed to follow the trend of high-frequency trading, which may lead to a bubble.
 
 Therefore, it is important to recognize our own goals and not follow the crowd just because everyone around us is doing something. As our goals may be different from others, following the crowd may lead to counterproductive results.
 
