@@ -36,7 +36,7 @@ const SharingTable = () => {
 }
 
 const components = {
-    SharingTable, SharingTable 
+    SharingTable, SharingTable, 
 }
 
 export const wrapRootElement = ({ element }) => {

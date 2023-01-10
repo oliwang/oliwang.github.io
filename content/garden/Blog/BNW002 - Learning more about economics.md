@@ -8,12 +8,12 @@ tags:
 excerpt: One of my new year's resolutions is to learn more about the economy. Here's why and what I'm reading.
 published: true
 scheduled-for: 2023-01-08
-stage: IDEA
+stage: DONE
 ---
 
 # BNW002 - Learning more about economics
 
-![CA](https://imagehosting-ow.oss-cn-hangzhou.aliyuncs.com/202301082221871.png)
+<img class="hero_image" src="./Blog/BNW002 - Learning more about economics/seo.png"></img>
 
 One of my new year's resolutions is to learn more about the economy. 
 

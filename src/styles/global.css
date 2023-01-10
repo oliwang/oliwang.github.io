@@ -17,6 +17,13 @@
     display:block!important;
 }
 
+.note-content .hero_image {
+    width: 100%!important;
+    margin: 1rem 0;
+    max-width: 100%!important;
+    max-height: 100%!important;
+}
+
 .SharingTable {
 
 }

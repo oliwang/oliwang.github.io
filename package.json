@@ -16,6 +16,7 @@
     "gatsby-source-filesystem": "^5.3.1",
     "gatsby-theme-garden": "^0.1.1",
     "gatsby-transformer-remark": "2.6.22",
+    "jimp": "^0.16.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
