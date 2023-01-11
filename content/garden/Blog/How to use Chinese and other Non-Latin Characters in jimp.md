@@ -1,14 +1,17 @@
 ---
-title: "How to use Chinese and other Non-Latin Characters in jimp"
+title: How to use Chinese and other Non-Latin Characters in jimp
 date: 2023-01-11
-tags: ["develop", "code", "Blog", "node.js","2023","RSS"]
-excerpt: "I spent the whole afternoon figuring out how to use Chinese characters in Jimp. Here's how I did it."
-
+tags:
+  - develop
+  - code
+  - Blog
+  - node.js
+  - "2023"
+  - RSS
+excerpt: I spent the whole afternoon figuring out how to use Chinese characters in Jimp. Here's how I did it.
 published: true
-scheduled-for: 2023-01-18
-
+scheduled-for: 2023-01-11
 stage: DONE
-
 ---
 
 # How to use Chinese and other Non-Latin Characters in jimp
@@ -18,7 +21,7 @@ stage: DONE
 
 I followed [How to generate social media banners for Gatsby automatically? | An Tran](https://antran.app/2022/gatsby_seo_banner/) to automatically generate image for each of my blog posts with a module called [jimp](https://github.com/oliver-moran/jimp). It worked OK until I wrote a post in Chinese. The Chinese characters are printed as "?" on the image. I think the same would happen for the other non-latin languages.
 
-This seems like a easy problem to solve. Just load a font that supports Chinese characters.
+This seems like an easy problem to solve. Just load a font that supports Chinese characters.
 
 But if you have never used `.fnt` fonts before, there's a lot of googling to find the solution. 
 
