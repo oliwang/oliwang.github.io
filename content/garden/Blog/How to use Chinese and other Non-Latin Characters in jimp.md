@@ -16,8 +16,6 @@ stage: DONE
 
 # How to use Chinese and other Non-Latin Characters in jimp
 
-<img class="hero_image" src="./Blog/How to use Chinese and other Non-Latin Characters in jimp/seo.png"></img>
-⬆️ Generated with jimp
 
 I followed [How to generate social media banners for Gatsby automatically? | An Tran](https://antran.app/2022/gatsby_seo_banner/) to automatically generate image for each of my blog posts with a module called [jimp](https://github.com/oliver-moran/jimp). It worked OK until I wrote a post in Chinese. The Chinese characters are printed as "?" on the image. I think the same would happen for the other non-latin languages.
 

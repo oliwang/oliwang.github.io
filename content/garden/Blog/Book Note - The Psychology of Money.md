@@ -13,7 +13,6 @@ stage: DONE
 
 # Book Note - The Psychology of Money
 
-<img class="hero_image" src="./Blog/Book Note - The Psychology of Money/seo.png"></img>
 
 The book, The Psychology of Money, contains 20 lessons about money that are both inspirational and educational to read.
 

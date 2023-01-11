@@ -13,7 +13,6 @@ stage: DONE
 
 # BNW001 - New Year, New Me, Newsletter and What I learned
 
-<img class="hero_image" src="./Blog/BNW001 - New Year, New Me, Newsletter and What I learned/seo.png"></img>
 
 Hello and welcome to the first edition of Better Next Week, your weekly dose of coding, productivity, and self-improvement inspiration.
 

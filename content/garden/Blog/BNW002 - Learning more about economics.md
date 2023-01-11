@@ -13,7 +13,6 @@ stage: DONE
 
 # BNW002 - Learning more about economics
 
-<img class="hero_image" src="./Blog/BNW002 - Learning more about economics/seo.png"></img>
 
 One of my new year's resolutions is to learn more about the economy. 
 
