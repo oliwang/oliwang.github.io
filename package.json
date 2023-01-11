@@ -5,7 +5,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby clean && gatsby build && gatsby serve",
     "clean": "gatsby clean",
     "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && yarn clean && gatsby build && gh-pages -d public -b gh-pages"
   },

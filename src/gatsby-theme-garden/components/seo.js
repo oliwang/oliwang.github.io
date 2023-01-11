@@ -24,8 +24,8 @@ const Seo = ({ description, lang, meta, title, slug }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
-  const url = `${site.siteMetadata.siteUrl}${slug}`;
-  const socialCard = `${url}seo.png`;
+  // const url = `${site.siteMetadata.siteUrl}${slug}`;
+  // const socialCard = `${url}seo.png`;
   const image = site.siteMetadata?.image
 
   return (

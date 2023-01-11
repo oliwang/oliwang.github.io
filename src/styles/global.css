@@ -24,6 +24,10 @@
     max-height: 100%!important;
 }
 
+.note-content pre {
+    margin: 1rem 0!important;
+}
+
 .SharingTable {
 
 }

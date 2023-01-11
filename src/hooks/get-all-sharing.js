@@ -30,6 +30,6 @@ export const useSharingData = () => {
             }
     `
     )
-    console.log(allMarkdownRemark);
+    // console.log(allMarkdownRemark);
     return allMarkdownRemark.edges
 }

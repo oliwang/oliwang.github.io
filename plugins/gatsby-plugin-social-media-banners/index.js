@@ -3,6 +3,7 @@ const jimp = require('jimp');
  
 module.exports = ({ markdownNode }) => {
   const { frontmatter, fields } = markdownNode;
+  console.log(frontmatter.title)
   const output = path.join('./public', fields.slug, 'seo.png');
  
   const WIDTH = 1200;
@@ -11,7 +12,7 @@ module.exports = ({ markdownNode }) => {
 
   return Promise.all([
     jimp.read(path.join(__dirname, 'banner.jpg')),
-    jimp.loadFont(jimp.FONT_SANS_64_BLACK),
+    jimp.loadFont(path.join(__dirname, 'fonts/zcool-80.fnt')),
   ]).then(([image, font]) => {
     image
       .resize(WIDTH, HEIGHT)

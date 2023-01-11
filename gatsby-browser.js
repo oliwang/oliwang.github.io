@@ -8,7 +8,6 @@ import { useSharingData } from "hooks/get-all-sharing"
 const SharingTable = () => {
     const edges = useSharingData()
 
-
     const table_rows = edges.map(edge => 
         <tr class="SharingTableRow">
             <td>
@@ -24,19 +23,22 @@ const SharingTable = () => {
     )
     return (
         <table class="SharingTable">
+            <thead>
             <tr class="SharingTableHeaderRow">
                 <th>Link</th>
                 <th>Description</th>
                 <th>Tags</th>
             </tr>
-            {table_rows}
+            </thead>
+            
+            <tbody>{table_rows}</tbody>
         </table>
     )
 
 }
 
 const components = {
-    SharingTable, SharingTable, 
+    SharingTable:SharingTable, 
 }
 
 export const wrapRootElement = ({ element }) => {
