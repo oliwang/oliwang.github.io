@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Better Next Week - Your weekly dose of productivity, coding, and self-improvement inspiration by Olivia Wang.]]></title><description><![CDATA[Your weekly dose of productivity, coding, and self-improvement inspiration]]></description><link>https://oliwang.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Jan 2023 12:48:10 GMT</lastBuildDate><item><title><![CDATA[BNW002 - Learning more about economics]]></title><description><![CDATA[One of my new year's resolutions is to learn more about the economy. Here's why and what I'm reading.]]></description><link>https://oliwang.github.io/Blog/BNW002%20-%20Learning%20more%20about%20economics/</link><guid isPermaLink="false">https://oliwang.github.io/Blog/BNW002 - Learning more about economics/</guid><pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate><content:encoded>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Better Next Week - Your weekly dose of productivity, coding, and self-improvement inspiration by Olivia Wang.]]></title><description><![CDATA[Your weekly dose of productivity, coding, and self-improvement inspiration]]></description><link>https://oliwang.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Jan 2023 15:58:01 GMT</lastBuildDate><item><title><![CDATA[BNW002 - Learning more about economics]]></title><description><![CDATA[One of my new year's resolutions is to learn more about the economy. Here's why and what I'm reading.]]></description><link>https://oliwang.github.io/Blog/BNW002%20-%20Learning%20more%20about%20economics/</link><guid isPermaLink="false">https://oliwang.github.io/Blog/BNW002 - Learning more about economics/</guid><pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate><content:encoded>
   &lt;style&gt;
     .note-content img {
       max-width:80%;
@@ -39,7 +39,6 @@
   
   &lt;div style=&quot;width:100%;&quot; class=&quot;note-content&quot;&gt;
   &lt;h1&gt;BNW002 - Learning more about economics&lt;/h1&gt;
-&lt;p&gt;&lt;img class=&quot;hero_image&quot; src=&quot;./Blog/BNW002 - Learning more about economics/seo.png&quot;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;One of my new year&apos;s resolutions is to learn more about the economy. &lt;/p&gt;
 &lt;p&gt;Last year, I read Morgan Housel&apos;s book &lt;a href=&quot;https://amzn.to/3VOIFdi&quot;&gt;The Psychology of Money&lt;/a&gt;. It&apos;s one of my favorites of 2022. After each chapter, I could &lt;a href=&quot;https://medium.com/p/81186dd46301&quot;&gt;write a summary&lt;/a&gt; of what I learned from it. For me, this is a clear indication that it is a useful book.&lt;/p&gt;
 &lt;p&gt;While I learned a lot about a healthy attitude towards money and investment, this book also reminded me how little I know about economics. &lt;/p&gt;
@@ -148,7 +147,6 @@ As a computer science major, I learn about how the economy works in tiny fractio
   
   &lt;div style=&quot;width:100%;&quot; class=&quot;note-content&quot;&gt;
   &lt;h1&gt;BNW001 - New Year, New Me, Newsletter and What I learned&lt;/h1&gt;
-&lt;p&gt;&lt;img class=&quot;hero_image&quot; src=&quot;./Blog/BNW001 - New Year, New Me, Newsletter and What I learned/seo.png&quot;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;Hello and welcome to the first edition of Better Next Week, your weekly dose of coding, productivity, and self-improvement inspiration.&lt;/p&gt;
 &lt;p&gt;As we start the new year, many of us have made resolutions to be more productive, improve our skills, or work towards our goals. For me, one of my resolutions is to write every week and share my thoughts, learning, experiences, and resources with you all through this newsletter.&lt;/p&gt;
 &lt;p&gt;Here are three things I learned in preparing for this newsletter:&lt;/p&gt;
