@@ -31,7 +31,7 @@ const Note = (data) => {
       <MDXProvider components={{ ...components, a: AnchorTag }}>
         {
           is_blog?
-          <img class="hero_image" src={`./Blog/${data.title}/seo.png`}></img>:
+          <img class="hero_image" alt="hero_image" src={`${process.env.CURRENT_DOMAIN}/Blog/${data.title}/seo.png`}></img>:
           null
         }
         <MDXRenderer>{data.mdx}</MDXRenderer>

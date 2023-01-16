@@ -299,3 +299,7 @@ function generate_html(inner_html) {
   </div>`
   return html_wrapper;
 }
+
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})

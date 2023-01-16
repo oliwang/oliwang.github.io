@@ -10,6 +10,7 @@
     "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && yarn clean && gatsby build && gh-pages -d public -b gh-pages"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "gatsby": "^2.21.37",
     "gatsby-plugin-exclude": "^1.0.2",
     "gatsby-plugin-feed": "^5.3.1",
