@@ -1,2 +1,11 @@
 node_modules/*
-DRAFT/*
+content/DRAFT/*
+.cache/*
+public/*
+yarn-error.log
+.vscode
+deploy.sh
+.DS_Store
+.env.production
+.gitignore
+.env.development
