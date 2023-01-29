@@ -1,7 +1,7 @@
 ---
 title: "BNW003 - One size does not fit for all in time management"
 date: 2023-01-15
-tags: ["Newsletter", "RSS", "time-management"]
+tags: ["Newsletter", "RSS", "time-management", "2023"]
 excerpt: "The most well-known time management technique may not be for you."
 
 published: true

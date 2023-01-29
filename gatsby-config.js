@@ -53,7 +53,7 @@ module.exports = {
                   date: node.frontmatter.date,
                   url: encodeURI(site.siteMetadata.siteUrl + node.fields.slug),
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": generate_html(node.html) }],
+                  custom_elements: [{ "content:encoded": generate_html(node.html, node.frontmatter.title) }],
                 })
               })
             },
@@ -92,7 +92,7 @@ module.exports = {
                   date: node.frontmatter.date,
                   url: encodeURI(site.siteMetadata.siteUrl + node.fields.slug),
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": generate_html(node.html) }],
+                  custom_elements: [{ "content:encoded": generate_html(node.html, node.frontmatter.title) }],
                 })
               })
             },
@@ -131,7 +131,7 @@ module.exports = {
                   date: node.frontmatter.date,
                   url: encodeURI(site.siteMetadata.siteUrl + node.fields.slug),
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": generate_html(node.html) }],
+                  custom_elements: [{ "content:encoded": generate_html(node.html, node.frontmatter.title) }],
                 })
               })
             },
@@ -254,7 +254,7 @@ module.exports = {
 }
 
 
-function generate_html(inner_html) {
+function generate_html(inner_html, title) {
   var html_wrapper = `
   <style>
     .note-content img {
@@ -295,6 +295,7 @@ function generate_html(inner_html) {
   </style>
   
   <div style="width:100%;" class="note-content">
+  <img class="hero_image" alt="hero_image" src="${"https://oliwang.github.io/Blog/" + title + "/seo.png"}"></img>
   ${inner_html}
   </div>`
   return html_wrapper;

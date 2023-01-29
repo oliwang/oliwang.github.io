@@ -1,7 +1,7 @@
 ---
 title: "BNW004 - Happy Chinese New Year"
 date: 2023-01-22
-tags: ["RSS", "Newsletter"]
+tags: ["RSS", "Newsletter", "2023"]
 excerpt: "Happy Chinese New Year, Art Exhibition, and Midjourney"
 
 published: true
