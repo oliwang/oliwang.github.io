@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Articles from Better Next Week by Olivia Wang.]]></title><description><![CDATA[Your weekly dose of productivity, coding, and self-improvement inspiration]]></description><link>https://oliwang.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Jan 2023 15:17:10 GMT</lastBuildDate><item><title><![CDATA[How to use Chinese and other Non-Latin Characters in jimp]]></title><description><![CDATA[I spent the whole afternoon figuring out how to use Chinese characters in Jimp. Here's how I did it.]]></description><link>https://oliwang.github.io/Blog/How%20to%20use%20Chinese%20and%20other%20Non-Latin%20Characters%20in%20jimp/</link><guid isPermaLink="false">https://oliwang.github.io/Blog/How to use Chinese and other Non-Latin Characters in jimp/</guid><pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate><content:encoded>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Articles from Better Next Week by Olivia Wang.]]></title><description><![CDATA[Your weekly dose of productivity, coding, and self-improvement inspiration]]></description><link>https://oliwang.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Jan 2023 14:45:50 GMT</lastBuildDate><item><title><![CDATA[How to use Chinese and other Non-Latin Characters in jimp]]></title><description><![CDATA[I spent the whole afternoon figuring out how to use Chinese characters in Jimp. Here's how I did it.]]></description><link>https://oliwang.github.io/Blog/How%20to%20use%20Chinese%20and%20other%20Non-Latin%20Characters%20in%20jimp/</link><guid isPermaLink="false">https://oliwang.github.io/Blog/How to use Chinese and other Non-Latin Characters in jimp/</guid><pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate><content:encoded>
   &lt;style&gt;
     .note-content img {
       max-width:80%;
@@ -38,6 +38,7 @@
   &lt;/style&gt;
   
   &lt;div style=&quot;width:100%;&quot; class=&quot;note-content&quot;&gt;
+  &lt;img class=&quot;hero_image&quot; alt=&quot;hero_image&quot; src=&quot;https://oliwang.github.io/Blog/How to use Chinese and other Non-Latin Characters in jimp/seo.png&quot;&gt;&lt;/img&gt;
   &lt;h1&gt;How to use Chinese and other Non-Latin Characters in jimp&lt;/h1&gt;
 &lt;p&gt;I followed &lt;a href=&quot;https://antran.app/2022/gatsby_seo_banner/&quot;&gt;How to generate social media banners for Gatsby automatically? | An Tran&lt;/a&gt; to automatically generate image for each of my blog posts with a module called &lt;a href=&quot;https://github.com/oliver-moran/jimp&quot;&gt;jimp&lt;/a&gt;. It worked OK until I wrote a post in Chinese. The Chinese characters are printed as &quot;?&quot; on the image. I think the same would happen for the other non-latin languages.&lt;/p&gt;
 &lt;p&gt;This seems like an easy problem to solve. Just load a font that supports Chinese characters.&lt;/p&gt;
@@ -128,6 +129,7 @@ subprocess.run(&quot;pbcopy&quot;, text=True, input=data)
   &lt;/style&gt;
   
   &lt;div style=&quot;width:100%;&quot; class=&quot;note-content&quot;&gt;
+  &lt;img class=&quot;hero_image&quot; alt=&quot;hero_image&quot; src=&quot;https://oliwang.github.io/Blog/Book Note - The Psychology of Money/seo.png&quot;&gt;&lt;/img&gt;
   &lt;h1&gt;Book Note - The Psychology of Money&lt;/h1&gt;
 &lt;p&gt;The book, The Psychology of Money, contains 20 lessons about money that are both inspirational and educational to read.&lt;/p&gt;
 &lt;p&gt;I started Dollar Cost Averaging last year and the returns were good. This year, however, I lost some money and became anxious. After reading the examples in Chapter 6 of &lt;em&gt;Tails, You Win&lt;/em&gt;, I feel more confident to stick with it.&lt;/p&gt;
