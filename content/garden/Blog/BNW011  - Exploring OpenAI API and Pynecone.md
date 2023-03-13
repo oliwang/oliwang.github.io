@@ -13,12 +13,12 @@ stage: DONE
 
 # BNW011 - Exploring OpenAI API and Pynecone
 
-I'm tired of constant refreshing and veryfing that I am human. So I decided to build a local ChatGPT client. I had read about Pynecone, a Python full-stack web app development framework, a while ago and had always wanted to try it.
+I'm tired of constantly refreshing and verifying that I am human. So I decided to build a local ChatGPT client. I had read about Pynecone, a Python full-stack web app development framework, a while ago and had always wanted to try it.
 
 
-## Using cloudflare workers as proxy
+## Using Cloudflare workers as a proxy
 
-I mainly followed this tutorial [使用 Cloudflare Workers 解决 OpenAI 和 ChatGPT 的 API 无法访问的问题 · noobnooc/noobnooc · Discussion #9](https://github.com/noobnooc/noobnooc/discussions/9) and bought a 99 cents domain from [99 Cent Domain Name Registration | $1 Coupons - Namecheap](https://www.namecheap.com/promos/99-cent-domain-names/). To add this domain to cloudflare I just followed the instructions on Cloudflare. Later I found this guide [How to set up DNS records for your domain in Cloudflare account - Hosting - Namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/9607/2210/how-to-set-up-dns-records-for-your-domain-in-cloudflare-account/). The only tricky part for me was setting up the nameservers because I had never done that before. After that, I waited for about 15 minutes and the site became active.
+I mainly followed this tutorial [使用 Cloudflare Workers 解决 OpenAI 和 ChatGPT 的 API 无法访问的问题 · noobnooc/noobnooc · Discussion #9](https://github.com/noobnooc/noobnooc/discussions/9) and bought a 99 cents domain from [99 Cent Domain Name Registration | $1 Coupons - Namecheap](https://www.namecheap.com/promos/99-cent-domain-names/). To add this domain to Cloudflare I just followed the instructions on the website. Later I found this guide [How to set up DNS records for your domain in Cloudflare account - Hosting - Namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/9607/2210/how-to-set-up-dns-records-for-your-domain-in-cloudflare-account/). The only tricky part for me was setting up the nameservers because I had never done that before. After that, I waited for about 15 minutes and the site became active.
 
 ## Pynecone
 
@@ -30,7 +30,7 @@ I declared a class Diaglog to store role and content information. For each sessi
 
 2.Async?
 
-Pynecone's button component has an `is_loading` field which is perfect for signalling the user "Your input has been sent, please wait before an answer is returned". However, when I tried to change the loading state by changing the boolean variable linked to `is_loading`, it doesn't work. I think it has something to do with blocking, sync, async? The fix is quite simple. Instead of putting everything in one function, have separate functions and chain them together.
+Pynecone's button component has an `is_loading` field which is perfect for signaling the user "Your input has been sent, please wait before an answer is returned". However, when I tried to change the loading state by changing the boolean variable linked to `is_loading`, it doesn't work. I think it has something to do with blocking, sync, async? The fix is quite simple. Instead of putting everything in one function, have separate functions and chain them together.
 
 ```python
 pc.button(
@@ -58,10 +58,10 @@ I like Pynecone a lot but I need to read the document closely before I build any
 ![CA | 300](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51fqA1WvlrL.jpg)
 
 - There are 168 hours in a week. 
-- Most people have false believes about how much time they spend working and how much time they relax and spend on activities such as watching TV. Before making decisions about time, keep a record of how you actually spend your day and week first.
-- Record, Analyze, Prioritize, Outsource, Improve.
+- Most people have false beliefs about how much time they spend working and how much time they relax and spend on activities such as watching TV. Before making decisions about time, keep a record of how you actually spend your day and week first.
+- Record, Analyze, Prioritize, Outsource, and Improve.
 - If you want to use your time efficiently, plan ahead. Plan your leisure time as well.
-- If you have read a dozon of time-management/productivity books, like me, nothing really new in this book.
+- If you have read a dozen of time-management/productivity books, like me, there is nothing really new in this book.
 
 
 
